@@ -1,1 +1,1 @@
-# AutoMid AI
+# Bank-Customer-Churn-Prediction
